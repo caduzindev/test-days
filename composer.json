@@ -6,9 +6,6 @@
             "Repositories\\":"repositories/"
         }
     },
-    "scripts":{
-        "test":"vendor/bin/phpunit --colors tests"
-    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     }
